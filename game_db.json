@@ -1,0 +1,257 @@
+[
+  {
+    "_id": "Great General",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "description": "Kol we7ed yebda 3andou 10 points, ynajem yechri bihom el units hedhom mel bot:\n**🪖 Soldier**: 1 point w ya3mel 1D4 damage (men 1 -> 4 damage)\n**🐎 Cavalry**: 2 points w ya3mel 1D6 damage (men 1 -> 6 damage)\n**🎖️ General**: 3 points w ya3mel 1D8 damage (men 1 -> 8 damage)\n\nKol round, kol player y7ot wa7da mel units eli chrehom, w yet3arkou 7asb el damage eli yrolliwah.\nEl unit eli tjib akther damage terba7 w to93od, wel unit el khasra tmout wel player mte3ha ybadelha.\n\nFi cas mta3 ta3adol fel damage, el unit el aghla terba7, w kenhom fard soum y3awdou yet3arkou.\n\nElli youfew el units mte3ou louleni yakhser.",
+    "img": "https://i.imgur.com/uv5EsA6.jpg",
+    "avg_time": 4,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Orlog",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/uX2ZlDs.jpg",
+    "description": "El zouz players yebdew b 10 HP.\nFi awel kol round, kol player yrolli 6 dice, kol die fih wa7da men hedhom:\n- 🏹 **Arrow**: Attack with 2 ranged damage \n- 🪓 **Axe**: Attack with 3 melee damage \n- 🛡️ **Shield**: Block 2 range damage\n- 🪖 **Helmet**: Block 3 melee damage\n- ♥️ **Heal**: Recover 1 HP\n- 🧲 **Steal**: Tesra9 1 die mte3 Heal (mahouch mosta3mal) w testa3mlou\n\nBa3d ma yetrollew el 6 dice, kol player ynadhamhom, w ba3d el dice yetwejhou bel ka3ba bel ka3ba 7asb el nidham mte3hom (Die 1 mta3 player 1 contre die 1 mta3 player 2, etc...)\nAwel we7ed yousel l 0 HP yakhsar.\n\nExamples: \n**🏹 Arrow** vs **🛡️ Shield**: no damage.\n**🏹 Arrow** vs **🪓 Axe**: zouz teklou damage.\n**🧲 Steal** vs **ay 7aja**: el steal tesra9 ay **Heal** mahich mosta3mla mel opponent.",
+    "avg_time": 6,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "ES-Cards",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "description": "Kol player 3andou 5 cards: \n<:emperor:1057795234249052182> 1 Emperor\n<:slave:1057795236920828004> 1 Slave \n<:citizen:1057795231195615353> 3 Citizens\nKol round kol player yarmi carta, w yetwejhou kima haka:\n\n**<:emperor:1057795234249052182> Emperor** yerba7 **<:citizen:1057795231195615353> Citizen**\n**<:citizen:1057795231195615353> Citizen** yerba7 **<:slave:1057795236920828004> Slave**\n**<:slave:1057795236920828004> Slave** yerba7 **<:emperor:1057795234249052182> Emperor**\n\nTetl3ab 3la best of 3.",
+    "img": "https://i.imgur.com/7hrDEEk.jpg",
+    "avg_time": 5,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Boss v Salaryman",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/yNAgNSK.jpg",
+    "description": "El players yjiw randomly we7ed **Boss** w lekher **Salaryman**, w kol round ye9lbou. \nKol round, fama budget mta3 $1000, wel **Boss** bech ya3ti lel bot el pourcentage (%) eli y7eb ya3tih lel **Salaryman**.\n\nEl **Salaryman** 3andou 2 choix: *Trust* or *Don't Trust*.\n-Ken el % akther men 50% wel **Salaryman** ytrusti yekhou el somme kollha w ken maytrustich yekhouha el **Boss**.\n-Ken el % a9al men 50% wel **Salaryman** mayetha9ch yekhou el somme kollha w ken ytrusti yekhou ken el % proposé.\n-Ken el %=50 wel **Salaryman** ytrusti donc yekhou 50% w ken ma ytrustich mayekhou chay.\n\nTetl3ab 3la 3 rounds, eli 3andou akther flous fi ekher round howa li yerba7.",
+    "avg_time": 4,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Treasure Hoarders",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/j899VG4.jpg",
+    "description": "El players yjiw randomly we7ed **Setter** w lekher **Guesser**, w kol round ye9lbou.\n\nEl **Setter** 3andou 4 cards [3 Normal Cards w 1 *Treasure Card*] w bech ynadhamhom (ma3neha yakhtar el position mta3 *Treasure Card*).\nEl **Guesser** lezmou ytalla3 el position mta3 *Treasure Card* wini.\n\nTetl3ab 3la best of 4.",
+    "avg_time": 5,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Miracle Fusion",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/4MsOs4g.jpg",
+    "description": "Bech ykoun fama awra9 ma9louba mte3 Elemental Heroes, w Fusion Sheet fiha les combinaisons mta3 l heroes.\n\nKol player yel3ab turn yakhtar zouz awra9 ye9lebhom.\nKen 3mal fusion, yekhou point, el awra9 ywaliw face-up, w y3awed yel3ab.\nKen ma 3malch fusion, yarj3ou ma9loubin w yel3ab el player le5er.\n\nEl fusion ysir mara bark w mayet3awedch.\nEli scorou akther ki youfew l fusions lkol yerba7.",
+    "avg_time": 5,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Chinchiro",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/szZQibV.jpg",
+    "description": "Kol round, kol player yrolli 3 dice (w 3andou l7a9 fi zouz rerolls), w ba3d el rolls mte3hom yet9arnou.\n\n-Ken yjibou nafs el roll yet3adlou.\n-Eli yjib **1-2-3** yakhser el round.\n-Eli yjib **4-5-6** yerba7 el round.\n-Eli yjib 3 nombres distincts scorou 0 points (ex: **1-4-6**).\n-Eli yjib double m3aha nombre ekher, scorou howa el valeur mta3 nombre hedheka (ex: **3-3-5** => score: 5 points).\n-Eli yjib triple, yerba7 el double 7ata ken el valeur mta3 triple asghar (ex: **1-1-1** terba7 **4-4-6**). Ken zouz yjibou triple, el triple l akber terba7 (ex: **5-5-5** terba7 **3-3-3**).\n\nTetl3ab 3la best of 3.",
+    "avg_time": 6,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "YTTD Majority Vote",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 7,
+    "active": true,
+    "img": "https://i.imgur.com/tAGlPGt.jpg",
+    "description": "Kol player 3andou role, m9assmin haka:\n+4 **Commoners**\n+1 **Keymaster**\n+1 **Sage**\n+1 **Sacrifice**\n\nEl déroulement mta3 el lo3ba bech ysirou fih 2 tours mta3 discussion, w ba3d ysir vote.\nFel vote, kol player yakhtar chkoun yvoti 3lih, ma ynajemch yvoti 3la rou7ou.\nEl **Sacrifice** 3andou el 7a9 fi 2 votes\nEl **Sage** ya3ref chkoun el **Keymaster** w maynejemch yekdheb 3al result idha tes2al 3lih.\n\nKen lvote yji 3al **Commoner**, yakhser howa w sacrifice, ama lb9iya yerb7ou.\nKen lvote yji 3al **Sage**, yakhser howa w sacrifice, ama lb9iya yerb7ou.\nKen lvote yji 3al **Keymaster**, everyone loses.\nKen lvote yji 3al **Sacrifice**, yerba7 howa w yakhtar chkoun yraba7 m3ah, wel b9iya yakhsrou",
+    "avg_time": 10,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Initial D6",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 5,
+    "active": true,
+    "img": "https://i.imgur.com/S5rePGC.png",
+    "description": "El players yal3bou 3la board, el but mte3hom howa chkoun yakhlet louleni lel finish line.\nEl order mta3 la3b yet7aded fi awel l game b roll mta3 dice, li yjib akther yebda 9bal.\n\nKol round, el player yrolli dice 3adi men 1 l 6  bech y9adem. \nWala yrolli Mystery Dice ynejem ywa5rou wala y9admou barcha.\n\nEl board fiha special cases, ki tji fihom tejbed Mystery Card ta3tik we7ed mel effects hedhom:\n-Takhtar 3abd kol ma yrolli yon9oslou -2 mel number li jeh (maywakharch).\n-Takhtar ay round t7eb 3liha, el roll mte3ha tjik doubled.\n-Tejem tet7akem fi dice mta3 we7ed mel players round wa7da.\n-Twakhar 3 cases.\n-Tekhou -2 3al zouz rolls jeyin mte3ek.\n-Takhtar player w round jeya yrolli fi blastek. \n",
+    "avg_time": 10,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Kumo no Canzone",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/ALfmg3K.jpg",
+    "description": "El players yjiw randomly we7ed **Spider** w lekher **Traitor**, w kol round ye9lbou.\nKol player 3andou coin fih side \"spider\" w side fergha.\n\nBech yplaciw el coin 3la we7ed mel sides w ywariwhom fard wa9t.\nKen ymatchiw el **Spider** yerba7.\nKen ma ymatchiwech el **Traitor** yerba7.\n\nTetl3ab 3la best of 3.",
+    "avg_time": 5,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Teia no Basket",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/NoaikzH.jpg",
+    "description": "El players yjiw randomly **Attacker** w **Defender**, w kol round ye9lbou.\n\nEl **Attacker** 3andou 3 options: *Shoot*, *Dribble*, *Fake*. \nEl **Defender** 3andou 3 options: *Block*, *Steal*, *Wait*.\n\nKen el **Attacker** khtar *Shoot* wel **Defender** **block**, +1 lel **Defender**. Sinon, +3 lel **Attacker**.\nKen el **Attacker** khtar *Dribble* wel **Defender** Steal toufa round sinon +2 lel attacker \nKen el **Attacker** khtar *Fake*, el **Defender** tetna7alou el option li khtarha, w ykamlou fi nafs el round. \n\nN.B.: Ba3d el *Fake*, ken el **Attacker** yakhtar **Shoot**, 3andou 35% chance bech ydhaya3.\n\nTetl3ab 3la 4 rounds, w ken fama tie tekmel el game 7ata lin yerba7 chkoun.",
+    "avg_time": 6,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Quiz Race",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/iKRKP7A.jpg",
+    "description": "Fama 3 paths, kol path fih 4 cases.\nWe7ed mel players bech yakhtar we7ed mel paths (Left, Middle, Right) wel theni yakhtar meli b9aw.\n\nFama max 7 rounds, w kol round fiha question lkol player.\nEli yjeweb s7i7 3andou el 7a9 y9adem fi nafs el path wala yemchi lel case eli ba7dheh fel path lekher.\nEl player maynejemch y9adem fi case fiha player e5er.\n\nEl reba7 howa awel we7ed yousel lel finish line, w ken wfew el rounds howa a9reb we7ed lel finish line.\nKen fama tie, yal3bou one more round fiha question wa7da, eli yjeweb louleni s7i7 yerba7.",
+    "avg_time": 13,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Joker Game",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/BWppxra.jpg",
+    "description": "El players yjiw randomly **Magician** w **Fool**, w kol round ye9lbou.\n\nEl **Magician** 3andou *Joker* fi yedou bech yplacih fi wa7da mel positionet hedhom (Left, Up, Right, Down).\nEl **Fool** y7awel y guessi l *Joker* win. Kenou s7i7 yekhou +2 w toufa round, ken ghalet nemchiw l step 2.\n\nFel step 2, tetna7a el position \"Down\", wel **Magician** y9oul lel **Fool** win bech y7ott el *Joker* (ynajem yekdheb), w ba3d yplacih.\nKen el **Fool** tala3ha +1.\nKen el **Fool** matala3hech wel **Magician** makdhebch +2 lel **Magician**. \nKen el **Fool** matala3hech wel **Magician** kdheb, 7ad mayekhou points.\n\nTetl3ab 3la best of 4.",
+    "avg_time": 7,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "3 Pokéballs",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/K7RkKtP.jpg",
+    "description": "Kol player 3andou 3 Pokéballs.\n\nKol round, kol player yakhtar 9adeh y7eb y7ot men Pokéball (mel 0 l 3).\nW ba3d y7awel ytala3 9adeh men Pokéball t7atou total (men 3andou w men 3and li controu).\n\nEli ytalla3 b s7i7 ton9oslou Pokéball w ywali ynajem y7ot mel 0 lel nombre li 3andou.\nEli youfewlou l Pokéballs mte3ou 9bal yerba7.",
+    "avg_time": 5,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Chakra Elements",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 2,
+    "active": true,
+    "img": "https://i.imgur.com/vvvepsC.jpg",
+    "description": "Kol player 3andou 5 elements. \nKol round, kol player bech y7ot element, w ba3d yetwejhou.\nKol element yerba7 zouz elements okhrin (selon table li louta).\nEl element li testa3mlou yetna7alek.\n\n__Element Table:__\n<:earth:1055145768614375475> **Earth** beats <:water:1055146015314935898> **Water** and <:wind:1055145728319688705> **Wind**.\n<:fire:1055145757516247153> **Fire** beats <:earth:1055145768614375475> **Earth** and <:wind:1055145728319688705> **Wind**.\n<:lightning:1055145746397143051> **Lightning** beats <:earth:1055145768614375475> **Earth** and <:fire:1055145757516247153> **Fire**.\n<:water:1055146015314935898> **Water** beats <:fire:1055145757516247153> **Fire** and <:lightning:1055145746397143051> **Lightning**.\n<:wind:1055145728319688705> **Wind** beats <:water:1055146015314935898> **Water** and <:lightning:1055145746397143051> **Lightning**.\n\nKi youfew l cards, eli 3andou akther points yerba7.",
+    "avg_time": 4,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Spy x Family",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 5,
+    "active": true,
+    "img": "https://i.imgur.com/p67EFj8.jpg",
+    "description": "5 players binet'hom **Spy** we7ed maya3rfouhech chkoun.\n\nFi awel kol round, kol player yvoti (privately) 3la we7ed mel 5 players (ynajem yvoti 3la rou7ou), w ki ness kol tvoti el host y9oul 9adech men vote jew 3al **Spy**.\nThen, el players ya7kiw binet b3adhhom 3la kifech votew (betbi3a eli y7eb yekdheb ynajem) bech ytal3ou chkoun spy, w fi ekher el round yvotiw (publicly) bech ykharjou we7ed fihom.\n\nKen kharjou Spy toufa l game w yerb7ou lkol ken **Spy**, sinon tekmel el game.\nKen t3adew 2 rounds w ma khrajch el **Spy**, yerba7 wa7dou.",
+    "avg_time": 10,
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  },
+  {
+    "_id": "Kakurenbo",
+    "queue": [],
+    "currently_playing": [],
+    "required_players": 10,
+    "active": true,
+    "img": "https://i.imgur.com/2PG3Ncj.jpg",
+    "description": "Kol team 3andha leader maya3ref rou7ou ken howa.\nEl players (except the leader) 3andhom el 7a9 ybadlou teams in secret, ama ken badlou maynajmouch yarj3ou.\nMax players li ynajmou ybadlou men kol team is 3 (ex: 3 7awlou men team 1 l team 2, donc ki we7ed ekher men team 1 y7eb ybadel lhost y9olou matnajemch). \nEl players li ybadlou yab9aw fel vc m3a team mte3hom l asleniya (anonymously).\n\n9bal matebda kol round, fama wa9t lel teams bech ya7kiw binet b3adh'hom, w ken fama chkoun y7eb ybadel el team ynajem ybadel ken fel wa9t hedha.\n\nKol round fiha 2 étapes:\n**Etape 1:** Kol player yvoti (privately) chkoun team li y7ebha terba7. Ken différence fel vote 2 or more akther, el game toufa w team with most votes wins. Sinon, nemchiw l étape 2.\n\n**Etape 2:** Kol team ta7ki binet b3adhha, w ba3d yvotiw 3la we7ed binet'hom ykharjouh. Ken votew 3al leader, el game toufa w team lokhra terba7. Sinon, nemchiw lel round li ba3d'ha.\n\nEl traitors eli badlou mel equipe reb7a yet7esbou khasrin, w yakhsrou 120% mel bet lma7tout.",
+    "avg_time": "11",
+    "hosting_data": {
+      "host_id": "",
+      "txt_id": "",
+      "vc_id": ""
+    }
+  }
+]
